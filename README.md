@@ -1,2 +1,1 @@
-# CrudForSchool
-Crud Project For School from 2016
+# simple-MVC-mra
